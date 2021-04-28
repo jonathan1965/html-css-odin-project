@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    background-color: aliceblue;
+    font-size: 20px;
+}
+
+.main-nav{
+    float:right;
+    margin-right: 90px;
+    text-decoration: none;
+}
+
+.main-nav li{
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.main-nav li a:link{
+   text-decoration: none;
+   font-size: 80%;
+  
+}
